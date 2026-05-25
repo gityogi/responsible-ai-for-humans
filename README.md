@@ -30,7 +30,7 @@ CLEAR-AU operates as a **continuous three-layer cycle**:
 ┌─────────────────────────────────────────────────────┐
 │                                                     │
 │   COMPREHEND          EVALUATE           RESPOND    │
-│   the Lens    ──▶    with Account-  ──▶  with       │
+│   the Lens    ──▶    with Account-  ──▶  with      │
 │                       ability            Rights     │
 │       ▲                                    │        │
 │       └────────────────────────────────────┘        │
