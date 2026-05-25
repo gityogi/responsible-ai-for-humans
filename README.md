@@ -200,13 +200,13 @@ This work is licensed under [Creative Commons Attribution Non-Commercial 4.0 Int
 
 You are free to share and adapt this material for non-commercial purposes, provided you give appropriate credit to the original author.
 
-**© 2025 Rishabh Kumar (@gityogi) | @askaimate**
+**© 2025 Rishabh Shukla (@gityogi) | @askaimate**
 
 ---
 
 ## Author
 
-Built by **Rishabh Kumar** — AI Engineer, ServiceNow Architect, and creator of [@askaimate](https://www.instagram.com/askaimate) — an Australian channel dedicated to making AI understandable for everyday people.
+Built by **Rishabh Shukla** — AI Engineer, ServiceNow Architect, and creator of [@askaimate](https://www.instagram.com/askaimate) — an Australian channel dedicated to making AI understandable for everyday people.
 
 *"Most responsible AI tools are built for engineers. This one is built for everyone else."*
 
@@ -217,6 +217,6 @@ Built by **Rishabh Kumar** — AI Engineer, ServiceNow Architect, and creator of
 If you use CLEAR-AU in your research or work, please cite:
 
 ```
-Kumar, R. (2025). CLEAR-AU Framework: Citizen Lens for Ethical AI Review — Australia.
+Shukla, R. (2025). CLEAR-AU Framework: Citizen Lens for Ethical AI Review — Australia.
 Zenodo. DOI: [to be updated]
 ```
